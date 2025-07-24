@@ -7,7 +7,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg5"
-   sodipodi:docname="favicon.svg"
+   sodipodi:docname="favicon-dark.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,7 +26,7 @@
      units="px"
      width="128px"
      inkscape:zoom="3.515417"
-     inkscape:cx="38.544503"
+     inkscape:cx="-17.494368"
      inkscape:cy="68.555167"
      inkscape:window-width="1366"
      inkscape:window-height="699"
@@ -43,7 +43,7 @@
      id="layer2"
      inkscape:label="Layer 2">
     <rect
-       style="fill:#ffffff;stroke-width:0.264583"
+       style="fill:#000000;stroke-width:0.264583"
        id="rect1520"
        width="33.866669"
        height="33.866669"
@@ -61,7 +61,7 @@
        id="path1164"
        transform="scale(0.26458333)" />
     <circle
-       style="fill:#315a65;fill-opacity:1;fill-rule:evenodd;stroke-width:0.461763"
+       style="fill:#417d8c;fill-opacity:1;fill-rule:evenodd;stroke-width:0.461763"
        id="path530"
        cx="17.259007"
        cy="17.647699"

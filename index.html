@@ -2,7 +2,11 @@
 <head>
 	<title>NoCast</title>
     <link rel="stylesheet" href="index.css">
-    <link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+	<!-- Light theme favicon -->
+	<link rel="icon" href="favicon.svg" media="(prefers-color-scheme: light)">
+
+	<!-- Dark theme favicon -->
+	<link rel="icon" href="favicon-dark.svg" media="(prefers-color-scheme: dark)">
 </head>
 <body>
 	<h1>NoCast</h1>
@@ -11,6 +15,6 @@
 	</div>
 
 	<button class="first" onclick="window.location.href = 'use';">Try it</button>
-	<button class="second" onclick="window.open('https://github.com/roger-padrell/nocast')"><img src="https://www.svgrepo.com/show/325236/github.svg">See the source</button>
+	<button class="second" onclick="window.open('https://github.com/nocast/nocast')"><img src="https://www.svgrepo.com/show/325236/github.svg">See the source</button>
 </body>
 </html>

@@ -7,7 +7,7 @@ Currently, the only way to install `nocast` is building it from source using `ru
 
 Here are a list of commands that, when used in order, install and setup nocast in any OS and enviroment supporting cargo and rust:
 ```bash
-cargo install --git https://github.com/roger-padrell/nocast.git
+cargo install --git https://github.com/nocast/nocast.git
 nocast setup
 ```
 The previous commands to the following:
@@ -38,4 +38,4 @@ You can list all the installed plugins using `nocast list`.
 We are working on a repo to hold all created plugins for ease of search and installation.
 
 ## Developing plugins
-This topic is worked on in the [original repository](https://github.com/roger-padrell/nocast/blob/master/DEV.md).
+This topic is worked on in the [original repository](https://github.com/nocast/nocast/blob/master/DEV.md).
