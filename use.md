@@ -24,18 +24,11 @@ After configuring it, you can use the keybinding to open the app, type what you 
 an action.
 
 ## Plugins
-Plugins can be installed using the command line: 
-```bash
-nocast install <plugin-name-or-source>
-```
-and removed with the same method:
-```bash
-nocast remove <plugin-name>
-```
+Plugins can be installed from the nocast configuration. Right now, you need to launch it using `nocast config`.
 
-You can list all the installed plugins using `nocast list`.
-
-We are working on a repo to hold all created plugins for ease of search and installation.
+### The NCPR
+The NCPR (NoCast Plugin Registry) is the place where plugins are published and registered, so you can install them without typing
+the full URL to their repository, and without downloading them manually.
 
 ## Developing plugins
 This topic is worked on in the [original repository](https://github.com/nocast/nocast/blob/master/DEV.md).
